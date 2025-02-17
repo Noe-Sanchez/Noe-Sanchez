@@ -1,0 +1,3 @@
+[submodule "astro-boilerplate-components"]
+	path = astro-boilerplate-components
+	url = https://github.com/Noe-Sanchez/astro-boilerplate-components.git
