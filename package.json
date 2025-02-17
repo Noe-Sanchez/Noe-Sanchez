@@ -5,11 +5,12 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "npm run build:astro-boilerplate-components && astro build",
     "preview": "astro preview",
     "clean": "rimraf dist",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx,.astro .",
     "build-types": "tsc --noEmit --pretty",
+    "build:astro-boilerplate-components": "cd astro-boilerplate-components && npm install && npm run build",
     "prepare": "husky install"
   },
   "devDependencies": {
