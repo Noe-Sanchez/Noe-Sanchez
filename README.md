@@ -1,7 +1,7 @@
 ### Hi, I’m @Noe-Sanchez :smile: 
 
 
-<--- [![trophy](https://github-profile-trophy.vercel.app/?username=Noe-Sanchez&theme=matrix&column=6&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) --->
+<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=Noe-Sanchez&theme=matrix&column=6&row=1&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy) --->
 
 
 ## Contact me
